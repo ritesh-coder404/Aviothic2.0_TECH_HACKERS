@@ -57,8 +57,7 @@ After uploading to GitHub, enable GitHub Pages:
 > Go to *Settings → Pages → Source: main branch* → Save  
 
 Then open:  
-👉 https://your-github-username.github.io/mood-player/
-
+👉https://github.com/ritesh-coder404/AVIITHIC2.0-TECH_HACKERS.git
 ---
 
 ## 🎨 Preview  
