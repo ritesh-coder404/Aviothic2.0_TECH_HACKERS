@@ -40,7 +40,7 @@ It’s simple, responsive, and gives a real “mood-changing” experience every
 | 😊 Happy | Happy Vibes | [https://www.youtube.com/embed) |rS4G5az-MKA |
 | 😔 Sad | Emotional Tune | https://www.youtube.com/embed[) | hXMjKVKO18g |
 | 😎 Chill | Lo-Fi Beats | [https://www.youtube.com/embed) |HqUeSjsYLN |
-|    Patriotic | bhakti songs | [https://www.youtube.com/embed) |nDsIy6kRhm |
+|Patriotic |Desh bhakti | [https://www.youtube.com/embed) |nDsIy6kRhm |
 | 😴 Sleepy| SoJaa... | [https://www.youtube.com/embed) |_s3iubAXihM |
 
 ---
