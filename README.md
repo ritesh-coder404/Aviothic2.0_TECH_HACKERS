@@ -1,7 +1,7 @@
 # Play Your Mood
 A creative and modern *mood-based music player* built using *HTML, CSS, and JavaScript*.  
 This web app automatically changes the background color and plays YouTube music based on your selected mood —  
-*Happy 😊, **Sad 😔, or **Chill 😎*.  
+*Happy 😊, **Sad 😔, or **Chill 😎 * Patriotic  *😴 SoJaa..  
 
 It’s simple, responsive, and gives a real “mood-changing” experience every time you click a button.  
 
