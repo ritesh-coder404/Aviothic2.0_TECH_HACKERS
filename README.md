@@ -19,7 +19,7 @@ It’s simple, responsive, and gives a real “mood-changing” experience every
 
 ## 🧩 How It Works  
 1. The page loads with a *Happy song* by default.  
-2. When you click any mood button (Happy, Sad, Chill), JavaScript changes the iframe’s YouTube src.  
+2. When you click any mood button (Happy, Sad, Chill,Patriotic,Sleepy), JavaScript changes the iframe’s YouTube src.  
 3. The background color also changes smoothly to match that mood.  
 4. All songs autoplay (muted) and loop infinitely.  
 
@@ -59,7 +59,7 @@ After uploading to GitHub, enable GitHub Pages:
 > Go to *Settings → Pages → Source: main branch* → Save  
 
 Then open:  
-👉
+👉https://github.com/ritesh-coder404/Aviothic2.0_TECH_HACKERS.git
 
 
 
