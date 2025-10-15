@@ -4,27 +4,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mood Player 🎵</title>
-    <link rel="stylesheet" href="MOOD.CSS">
-
+    <title>Mood Player 🎧</title>
+    <link rel="stylesheet" href="mood.css">
 </head>
 
 <body>
-    <h1>🎧 Play Your Mood 🎧</h1>
 
-    <div class="buttons">
-        <button id="happy">😊 Happy</button>
-        <button id="sad">😔 Sad</button>
-        <button id="chill">😎 Chill</button>
-       
+
+    <h1>🎶 Play Your Mood 🎶</h1>
+
+
+    <div class="dropdown">
+        <button class="dropbtn" id="moodMenuBtn">🎵 Choose Mood</button>
+        <div class="dropdown-content" id="moodMenu">
+            <button id="happy">😊 Happy</button>
+            <button id="sad">😔 Sad</button>
+            <button id="chill">😎 Chill</button>
+            <button id="Patriotic"> Desh Bhakti</button>
+            <button id="Sleepy">😴 SoJaa..</button>
+        </div>
     </div>
 
-    <iframe id="player" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
-    <script src="MOOD.JS"></script>
+    <iframe id="player" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<script src="modd.js"></script>
 
 </body>
-
-
 </html>
-
