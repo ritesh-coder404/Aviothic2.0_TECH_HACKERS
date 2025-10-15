@@ -1,0 +1,194 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: url(https://i.pinimg.com/1200x/21/d0/be/21d0be095868dd1f9a1def00915b53c0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background 3s ease;
+}
+
+h1 {
+    font-size: 26px;
+    margin-bottom: 128px;
+    font-weight: 900;
+    border: 3px solid rgb(240, 231, 231);
+    border-radius: 30px;
+    margin-top: 5px;
+}
+
+iframe {
+    width: 90%;
+    max-width: 590px;
+    height: 315px;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.4);
+
+
+}
+
+.dropdown {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 100;
+}
+
+.dropbtn {
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    animation: glow 2s infinite alternate;
+}
+
+@keyframes glow {
+    from {
+        box-shadow: 0 0 5px white;
+    }
+
+    to {
+        box-shadow: 0 0 15px white;
+    }
+}
+
+.dropbtn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: scale(1.05);
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    min-width: 220px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    margin-top: 10px;
+    overflow: hidden;
+    animation: slideIn 0.4s ease;
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.dropdown-content button {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 16px;
+    text-align: left;
+    width: 100%;
+    padding: 12px 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.dropdown-content button:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.show {
+    display: block;
+}
+
+
+.happy {
+
+    background-image: url(https://i.pinimg.com/1200x/35/c5/44/35c544bf5612b07a8dda4ddbbdc2749d.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sad {
+
+    background-image: url(https://i.pinimg.com/736x/90/23/e2/9023e232d3de7fdffb286ac995789ba4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.chill {
+
+    background-image: url(https://i.pinimg.com/1200x/dc/3b/6c/dc3b6c04cce8d2eb9e928630bdccbc2d.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Patriotic {
+    background-image: url(https://i.pinimg.com/736x/48/fe/d8/48fed8220b01b857790d7254d29dffd2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Sleepy {
+    background-image: url(https://i.pinimg.com/1200x/f0/9b/ee/f09bee69ba298b858d05c4766237c182.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 22px;
+    }
+
+    .dropbtn {
+        font-size: 16px;
+        padding: 8px 18px;
+    }
+}
+
+#player {
+    margin-bottom: 0px;
+}
+
+@media (max-width: 768px) {
+
+    h1 {
+
+        font-size: 22px;
+
+        margin-bottom: 80px;
+
+    }
+
+    .dropbtn {
+
+        font-size: 16px;
+
+        padding: 8px 18px;
+
+    }
+
+    iframe {
+
+        width: 95%;
+
+        height: 250px;
+
+    }
+
+}
