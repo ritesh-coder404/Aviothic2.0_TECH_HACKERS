@@ -40,6 +40,8 @@ It’s simple, responsive, and gives a real “mood-changing” experience every
 | 😊 Happy | Happy Vibes | [https://www.youtube.com/embed) |rS4G5az-MKA |
 | 😔 Sad | Emotional Tune | https://www.youtube.com/embed[) | hXMjKVKO18g |
 | 😎 Chill | Lo-Fi Beats | [https://www.youtube.com/embed) |HqUeSjsYLN |
+|    Patriotic | bhakti songs | [https://www.youtube.com/embed) |nDsIy6kRhm |
+| 😴 Sleepy| SoJaa... | [https://www.youtube.com/embed) |_s3iubAXihM |
 
 ---
 
@@ -57,13 +59,9 @@ After uploading to GitHub, enable GitHub Pages:
 > Go to *Settings → Pages → Source: main branch* → Save  
 
 Then open:  
-👉https://github.com/ritesh-coder404/AVIITHIC2.0-TECH_HACKERS.git
----
+👉
 
-## 🎨 Preview  
-Add your screenshot below once uploaded:  
-![Mood Player Screenshot](Screenshot 2025-10-14 192707.jpg]
-)
+
 
 ---
 
