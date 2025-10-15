@@ -1,4 +1,4 @@
-# AVIITHIC2.0-TECH_HACKERS
+# Play Your Mood
 A creative and modern *mood-based music player* built using *HTML, CSS, and JavaScript*.  
 This web app automatically changes the background color and plays YouTube music based on your selected mood —  
 *Happy 😊, **Sad 😔, or **Chill 😎*.  
